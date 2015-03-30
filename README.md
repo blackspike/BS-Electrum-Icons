@@ -1,9 +1,18 @@
 # BS Electrum Icons
 ###Flat alternative icon set for the Electrum Bitcoin client
 
-Blackspike LTD would like to offer an alternative modern, flat vector and retina ready icon set for [Electrum](https://github.com/spesmilo/electrum), the fantastic cross platform Bitcoin wallet
+Blackspike LTD would like to offer an alternative modern, flat, vector and retina ready icon set for [Electrum](https://github.com/spesmilo/electrum), the fantastic cross platform Bitcoin wallet
 
-Included is a set of (hand drawn by Blackspike) public domain icons, hand hinted small 25x25px icons for the status bar,  larger 512x512px full size .png icons, a vector .svg icon set, two .ico files (one light one dark), a possible Electrum logo idea and the Adobe Illustrator and [Icon slate](http://www.kodlian.com/apps/icon-slate) master files. 
+####Includes
+
+* A set of (drawn by Blackspike) public domain icons
+* Hand hinted small 25x25px icons for the status bar
+* Large 512x512px full size .png icons
+* .svg vector icon set
+* Two .ico files (one light one dark)
+* Possible Electrum logo
+* Adobe Illustrator master files 
+* [Icon slate](http://www.kodlian.com/apps/icon-slate) master files 
 
 #### Icons
 ![window](https://raw.githubusercontent.com/blackspikeltd/BS-Electrum-Icons/master/Icons/screengrabs/Electrum-all-icons---new.png)
