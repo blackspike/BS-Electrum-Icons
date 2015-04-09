@@ -13,9 +13,13 @@
 * Possible Electrum logo
 * Adobe Illustrator master files 
 * [Icon slate](http://www.kodlian.com/apps/icon-slate) master files 
+* Added mono noun project versions (awaiting moderation from them)
 
 #### Icons
 ![window](https://raw.githubusercontent.com/blackspikeltd/BS-Electrum-Icons/master/Icons/screengrabs/Electrum-all-icons---new.png)
+
+#### Optimised Small Icons
+![window](https://raw.githubusercontent.com/blackspikeltd/BS-Electrum-Icons/master/Icons/screengrabs/small-icons.png)
 
 #### Icons in situ
 ![window](https://raw.githubusercontent.com/blackspikeltd/BS-Electrum-Icons/master/Icons/screengrabs/window.png)
